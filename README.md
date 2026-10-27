@@ -10,10 +10,10 @@ My mission is to bridge the gap between heavy domain expertise in land surveying
 
 ### 🛠️ Tech Stack & Skills
 
-*   🐍 **Python** — Скрипты, автоматизация, обработка геоданных.
-*   🗄️ **SQL / PostgreSQL** — Проектирование и работа с базами данных.
-*   📊 **Data Science** — Анализ данных и алгоритмы.
-*   🤖 **AI-Driven Development** — Разработка в синергии с ИИ (vibe coding).
+*   🐍 **Python** — Scripting, automation, and geospatial data processing.
+*   🗄️ **SQL / PostgreSQL** — Database design and query optimization.
+*   📊 **Data Science** — Data analysis, processing, and machine learning fundamentals.
+*   🤖 **AI-Driven Development** — Building applications efficiently via AI-assisted engineering (vibe coding).
 
 ---
 
@@ -21,7 +21,7 @@ My mission is to bridge the gap between heavy domain expertise in land surveying
 
 *   🔄 **The Transition:** Moving from traditional engineering to IT, merging years of field experience with AI data workflows to solve real industry problems.
 *   📐 **GIS & Automation:** Aiming to become a modern GIS Specialist who leverages advanced AI methodologies rather than just standard software.
-*   🤖 **AI-Driven Development:** Deeply relying on AI tools (from daily task automation to full-scale "vibe coding" of applications) to eliminate the biggest pain points in office-based data processing (камеральная обработка).
+*   🤖 **AI-Driven Development:** Deeply relying on AI tools (from daily task automation to full-scale "vibe coding" of applications) to eliminate the biggest pain points in office-based engineering and data processing.
 
 ---
 
