@@ -10,22 +10,29 @@ My mission is to bridge the gap between heavy domain expertise in land surveying
 
 ### 🛠️ Tech Stack & Skills
 
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![Data Science](https://shields.io)
-![AI Development](https://shields.io🤖-orange?style=for-the-badge)
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="SQL" />
+  <img src="https://shields.io" alt="Data Science" />
+  <img src="https://shields.io🤖-orange?style=for-the-badge" alt="AI Dev" />
+</p>
 
 ---
 
 ### 🚀 What I Do & My Vision
-*   🔄 **The Transition:** Moving from traditional engineering to IT, merging years of field experience with AI data workflows to solve real industry problems.
-*   📐 **GIS & Automation:** Aiming to become a modern GIS Specialist who leverages advanced AI methodologies rather than just standard software.
-*   🤖 **AI-Driven Development:** Deeply relying on AI tools (from daily task automation to full-scale "vibe coding" of applications) to eliminate the biggest pain points in office-based data processing (камеральная обработка).
+
+🔄 **The Transition:** Moving from traditional engineering to IT, merging years of field experience with AI data workflows to solve real industry problems.
+
+📐 **GIS & Automation:** Aiming to become a modern GIS Specialist who leverages advanced AI methodologies rather than just standard software.
+
+🤖 **AI-Driven Development:** Deeply relying on AI tools (from daily task automation to full-scale "vibe coding" of applications) to eliminate the biggest pain points in office-based data processing (камеральная обработка).
 
 ---
 
 ### 📦 Featured Project: GeoCore AI Tools
+
 My first standalone project born from this vision is **GeoCore** — a standalone desktop application tailored for cadastral engineers. 
+
 *   **The Problem:** Manual, time-consuming data processing for restricted zones (ЗОУИТ) and linear objects.
 *   **The Solution:** GeoCore fully automates the processing and analysis, cutting down office work from hours to minutes.
 *   *Built with Python and powered by AI-assisted development.*
@@ -34,5 +41,11 @@ My first standalone project born from this vision is **GeoCore** — a standalon
 
 ### 📬 Connect with Me
 
-[![Telegram](https://shields.io)](https://t.me)
-[![Email](https://shields.io)](mailto:zolnikov.ns@yandex.ru)
+<p align="left">
+  <a href="https://t.me" target="_blank">
+    <img src="https://shields.io" alt="Telegram" />
+  </a>
+  <a href="mailto:zolnikov.ns@yandex.ru">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
